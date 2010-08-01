@@ -87,6 +87,43 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Import</string>
+			<key>scope</key>
+			<string>variable.import</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#495B95</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Package</string>
+			<key>scope</key>
+			<string>variable.package, entity.name.package</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#888888</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Package selector</string>
+			<key>scope</key>
+			<string>meta.import.selector</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#000000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>parameters</string>
 			<key>scope</key>
 			<string>variable.parameter</string>
@@ -236,6 +273,32 @@
 			<dict>
 				<key>foreground</key>
 				<string>#646464</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rexp chars</string>
+			<key>scope</key>
+			<string>constant.character.character-class.regexp</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#A61220</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rexp string</string>
+			<key>scope</key>
+			<string>string.quoted.regex</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#781417</string>
 			</dict>
 		</dict>
 		<dict>
