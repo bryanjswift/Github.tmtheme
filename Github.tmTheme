@@ -63,7 +63,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -72,7 +72,10 @@
 			<key>scope</key>
 			<string>constant.character, constant.other</string>
 			<key>settings</key>
-			<dict/>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -82,7 +85,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -93,7 +96,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#495B95</string>
 			</dict>
@@ -117,7 +120,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -150,7 +153,10 @@
 			<key>scope</key>
 			<string>storage</string>
 			<key>settings</key>
-			<dict/>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -171,7 +177,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#5368AC</string>
 			</dict>
@@ -184,7 +190,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#5368AB</string>
 			</dict>
@@ -197,7 +203,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#5368AB</string>
 			</dict>
@@ -253,7 +259,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -283,7 +289,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#A61220</string>
 			</dict>
@@ -362,7 +368,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#000000</string>
 			</dict>
@@ -406,24 +412,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword</string>
-			<key>scope</key>
-			<string>keyword, storage</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Operator</string>
 			<key>scope</key>
 			<string>keyword.operator</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -434,7 +429,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -445,7 +440,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#445588</string>
 			</dict>
@@ -493,7 +488,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#445588</string>
 			</dict>
